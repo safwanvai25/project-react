@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/6Rr8J9L/2.png",
+      "title": "The Silent Echo",
+      "author": "Emily Carson",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": "5 hours",
+      "hashtags": ["#mystery", "#thriller", "#suspense"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/L88H0k4/1.jpg",
+      "title": "Whispers in the Dark",
+      "author": "James L. White",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": "7 hours",
+      "hashtags": ["#horror", "#suspense", "#psychological"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/ZSNg6QH/3.png",
+      "title": "The Lost City",
+      "author": "Sarah Blake",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": "6 hours",
+      "hashtags": ["#adventure", "#historical", "#action"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/cb4Xqtr/4.jpg",
+      "title": "Eclipse of the Heart",
+      "author": "Daniel K. Roberts",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2024-07-10",
+      "reading_time": "4 hours",
+      "hashtags": ["#romance", "#drama", "#heartfelt"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co.com/jZ6JHmG/5396346.jpg",
+      "title": "Echoes of the Past",
+      "author": "Lily Monroe",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2024-06-25",
+      "reading_time": "8 hours",
+      "hashtags": ["#historicalfiction", "#mystery", "#familysecrets"]
+    }
+  ]
+  
